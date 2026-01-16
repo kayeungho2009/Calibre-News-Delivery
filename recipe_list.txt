@@ -1,3 +1,3 @@
-al_jazeera.recipe
-am730.recipe
-scmp.recipe
+Al Jazeera in English
+South China Morning Post
+u'AM730'
