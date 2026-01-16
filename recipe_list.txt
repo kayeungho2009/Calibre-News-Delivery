@@ -1,2 +1,3 @@
-scmp.com
-english.aljazeera.net
+al_jazeera.recipe
+am730.recipe
+scmp.recipe
