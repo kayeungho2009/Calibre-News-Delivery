@@ -1,5 +1,11 @@
 Al Jazeera in English
 South China Morning Post
 u'AM730'
-RTHK
-香港電台
+RTHK - Local News
+香港電台 - 體育新聞
+香港電台 - 財經新聞
+香港電台 - 國際新聞
+香港電台 - 大中華新聞
+香港電台 - 本地新聞
+RTHK - Sport News.recipe
+RTHK - World News.recipe
